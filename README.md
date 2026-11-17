@@ -48,7 +48,7 @@ I build ERPNext / Frappe solutions, reconciliation tooling and Google Workspace 
 
 | Project | Description | Stack |
 |---|---|---|
-| **[reader-view](https://github.com/amokiritu/reader-view)** | Safari-style Reader mode for Chrome and Chromium browsers (Manifest V3) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[reader-view](https://github.com/amokiritu/reader-view)** | Safari-style Reader mode for Chrome (Manifest V3): article detection, Alt+Shift+R toggle, 4 themes, 8 fonts and private on-device AI summaries (Gemini Nano). MIT licensed | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **[bible-world-timeline](https://github.com/amokiritu/bible-world-timeline)** | Interactive Bible world timeline | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **[amana-website](https://github.com/amokiritu/amana-website)** | Website for Amana Automation Solutions | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
