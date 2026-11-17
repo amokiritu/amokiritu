@@ -44,8 +44,8 @@ I build ERPNext / Frappe solutions, reconciliation tooling and Google Workspace 
 
 ## 🚀 Projects
 
-[![amana-website](https://github-readme-stats.vercel.app/api/pin/?username=amokiritu&repo=amana-website&theme=radical)](https://github.com/amokiritu/amana-website)
-[![bible-world-timeline](https://github-readme-stats.vercel.app/api/pin/?username=amokiritu&repo=bible-world-timeline&theme=radical)](https://github.com/amokiritu/bible-world-timeline)
+[![amana-website](https://img.shields.io/badge/amana--website-Amana_ERP_site-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amokiritu/amana-website)
+[![bible-world-timeline](https://img.shields.io/badge/bible--world--timeline-Interactive_timeline-8E44AD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amokiritu/bible-world-timeline)
 
 ---
 
