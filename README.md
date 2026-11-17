@@ -44,8 +44,23 @@ I build ERPNext / Frappe solutions, reconciliation tooling and Google Workspace 
 
 ## 🚀 Projects
 
-[![amana-website](https://img.shields.io/badge/amana--website-Amana_ERP_site-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amokiritu/amana-website)
-[![bible-world-timeline](https://img.shields.io/badge/bible--world--timeline-Interactive_timeline-8E44AD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amokiritu/bible-world-timeline)
+### 🌐 Open Source
+
+| Project | Description | Stack |
+|---|---|---|
+| **[reader-view](https://github.com/amokiritu/reader-view)** | Safari-style Reader mode for Chrome and Chromium browsers (Manifest V3) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[bible-world-timeline](https://github.com/amokiritu/bible-world-timeline)** | Interactive Bible world timeline | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **[amana-website](https://github.com/amokiritu/amana-website)** | Website for Amana Automation Solutions | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
+### 🔒 In Development (private)
+
+| Project | Description | Stack |
+|---|---|---|
+| **Amana ERP** | ERP platform from Amana Automation Solutions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **GariHub** | End-to-end system for Kenyan car import yards, built on ERPNext | ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=frappe&logoColor=white) |
+| **Mizani** | Finance operations automation platform, starting with account reconciliation, built on Frappe | ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white) |
+| **Kids Home** | Custom launcher for the children's Amazon Fire HD 8 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Quest** | Holiday learning app for children, built for the Amazon Fire HD 8 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 ---
 
